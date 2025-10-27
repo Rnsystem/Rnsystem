@@ -38,5 +38,6 @@ GitHub / Linux / Docker / CI/CD
 
 ### 📬 Contact
 - Portfolio：https://www.rnsystem.jp
+- contact form:https://www.rnsystem.jp/contact
 - Sub Jobs：https://coconala.com/users/1172887
-- Email：r.uwasa1130@gmail.com
+- Email：ryohma@rnsystem.jp
