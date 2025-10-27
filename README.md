@@ -47,4 +47,4 @@ GitHub / Linux / Docker / CI/CD
 
 ---
 
-![Footer](images/footer.jpg.jpg)
+![Footer](images/footer.jpg)
