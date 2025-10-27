@@ -1,5 +1,5 @@
 
-![Header](images/Rbk03.jpg)
+![Header](images/header.jpg)
 
 ### 👋 Hi, I'm Ryoma U.
 
@@ -44,3 +44,7 @@ GitHub / Linux / Docker / CI/CD
 - contact form:https://www.rnsystem.jp/contact
 - Sub Jobs：https://coconala.com/users/1172887
 - Email：ryohma@rnsystem.jp
+
+---
+
+![Footer](images/footer.jpg.jpg)
