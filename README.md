@@ -1,17 +1,23 @@
 ### 👋 Hi, I'm Ryoma U.
 
-System Engineer / Python Developer
+System Engineer / Python Developer | DX Promoter
 
 業務効率化・データ連携システム開発を中心に、
-Python・クラウド技術を活かしたDX推進に取り組んでいます。
+**現場に寄り添ったDX推進**を実践しています。
 
-- 🔧 **Python（Flask / Django）を用いた業務改善システム開発**
-- 🧩 FileMaker / Shopify / n8n などの **SaaS連携・自動化設計**
-- 📊 Webアプリ・API連携によるデータ活用支援
-- 🚀 チームリード経験あり
+- 🔧 Python（Flask / Django）による業務改善システム開発
+- 🧩 FileMaker / Shopify / n8n を活用した **SaaS連携・自動化設計**
+- 📊 Webアプリ・API連携でデータ活用を最大化
+- 🚀 少人数～単独でも幅広い領域を推進（要件定義→設計→開発→運用）
 
-常に「現場の課題改善」からスタートし、
-シンプルで長く使えるシステム作りを大切にしています。
+業務理解からスタートし、
+課題の洗い出し、仕組み化、改善サイクルまでを一貫して担当。  
+多業種のプロジェクトにも積極的に参加し、  
+**スキルの標準化と再現性あるDX**を目指し続けています。
+
+日々「できることを増やす」ではなく、  
+「できたことを仕組みに変える」を理念に、  
+シンプルで長く使い続けられるソリューションを開発しています。
 
 ---
 
@@ -19,17 +25,18 @@ Python・クラウド技術を活かしたDX推進に取り組んでいます。
 Python / Flask / Django / JavaScript  
 FileMaker / Shopify / n8n / Slack API  
 MySQL / PostgreSQL / ODBC / REST API  
+GitHub / Linux / Docker / CI/CD  
 
 ---
 
 ### 📌 Featured Projects (Pinned)
 - Shopify自動化 & 顧客データ管理システム
 - Webアプリ：在庫検索 / 通知機能
-- DX推進のための業務改善ツール各種
+- DX推進のための業務改善ツール各種（API連携 / 自動レポート生成 など）
 
 ---
 
 ### 📬 Contact
 - Portfolio：https://www.rnsystem.jp
-- sub jobs:https://coconala.com/users/1172887
-- Email:r.uwasa1130@gmail.com
+- Sub Jobs：https://coconala.com/users/1172887
+- Email：r.uwasa1130@gmail.com
